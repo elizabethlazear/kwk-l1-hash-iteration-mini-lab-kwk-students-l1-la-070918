@@ -26,11 +26,15 @@
 
 
 
-index = 0 
+# index = 0 
+# place=["sydney", "Athens", "Beijing", "London", "Atlanta"]
+# year=["2000", "2004" "2008" "2012" "1996"]
+
+def iterate_through_hash(place,year)
+  index = 0 
 place=["sydney", "Athens", "Beijing", "London", "Atlanta"]
 year=["2000", "2004" "2008" "2012" "1996"]
 
-def iterate_through_hash(place,year)
 place.each |place|
       puts do "The #{year} summer olympics took place in #{place}."
 end
