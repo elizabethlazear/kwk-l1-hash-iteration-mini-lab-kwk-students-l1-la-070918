@@ -36,3 +36,4 @@ place.each |place|
       puts do "The #{"year"} summer olympics took place in #{"place"}."
       
  end
+ 
