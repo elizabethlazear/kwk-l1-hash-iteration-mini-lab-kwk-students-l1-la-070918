@@ -32,7 +32,8 @@ def iterate_through_hash(place,year)
 place.each |place|
 year.each do |x|
   year x = x
-  
+  puts year
+end
       puts "The #{year} summer olympics took place in #{place}"
       
 end
