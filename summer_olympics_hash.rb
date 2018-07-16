@@ -31,6 +31,7 @@ year=["2000", "2004" "2008" "2012" "1996"]
 def iterate_through_hash(place,year)
 place.each |place|
 year.each do |x|
+  puts 
       puts "The #{year} summer olympics took place in #{place}"
       
 end
