@@ -26,7 +26,7 @@
 
  
 place=["sydney", "Athens", "Beijing", "London", "Atlanta"]
-.each
+place.each
 year=["2000", "2004" "2008" "2012" "1996"]
 
 def iterate_through_hash(place,year)
