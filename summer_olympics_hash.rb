@@ -24,13 +24,15 @@
 # end
 # add_a_key_value_pair
 
- 
+
+
+index = 0 
 place=["sydney", "Athens", "Beijing", "London", "Atlanta"]
 year=["2000", "2004" "2008" "2012" "1996"]
 
 def iterate_through_hash(place,year)
 place.each |place|
-index = 0
+
       puts "The #{year} summer olympics took place in #{place}"
       
 end
