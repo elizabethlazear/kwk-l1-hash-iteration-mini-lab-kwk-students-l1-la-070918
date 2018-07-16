@@ -30,7 +30,7 @@ place={"sydney", "Athens", "Beijing", "London", "Atlanta"}
 
 def iterate_through_hash(place,year)
       puts "The #{year} summer olympics took place in #{place} 
-      end
+end
       
  
 #   Implement this method so that it iterates over the hash created in add_a_key_value_pair
