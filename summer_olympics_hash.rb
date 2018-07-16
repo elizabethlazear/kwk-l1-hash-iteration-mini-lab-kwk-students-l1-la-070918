@@ -35,7 +35,7 @@ def iterate_through_hash
       year={
         "2000", "2004", "2008", "2012", "1996"}
  
- puts "The #{} summer olympics took place in _____."
+ puts "The #{year} summer olympics took place in #{place} "
  end
  end
  end
