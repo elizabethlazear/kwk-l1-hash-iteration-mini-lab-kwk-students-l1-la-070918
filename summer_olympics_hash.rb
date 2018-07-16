@@ -30,12 +30,12 @@
 def iterate_through_hash
   def place
     def year
+      puts "The #{year} summer olympics took place in #{place} "
       place={
         "sydney", "Athens", "Beijing", "London", "Atlanta"}
       year={
         "2000", "2004", "2008", "2012", "1996"}
- 
- puts "The #{year} summer olympics took place in #{place} "
+
  end
  end
  end
