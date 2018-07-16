@@ -38,3 +38,5 @@ year=["2000", "2004" "2008" "2012" "1996"]
 place.each |place|
       puts do "The #{year} summer olympics took place in #{place}."
 end
+
+iterate_through_hash
