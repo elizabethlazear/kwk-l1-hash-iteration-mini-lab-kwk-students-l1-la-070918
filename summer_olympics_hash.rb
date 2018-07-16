@@ -35,7 +35,6 @@ def iterate_through_hash
         "sydney", "Athens", "Beijing", "London", "Atlanta"}
       year={
         "2000", "2004", "2008", "2012", "1996"}
-
  end
  end
  end
@@ -43,9 +42,6 @@ def iterate_through_hash
  
   # Implement this method so that it iterates over the hash created in add_a_key_value_pair
   # and puts each key value pair within the phrase "The _____ summer olympics took place in _____."
-
-
-
 
 
 
