@@ -34,7 +34,7 @@ def iterate_through_hash
       place={
         "sydney", "Athens", "Beijing", "London", "Atlanta"}
       year={
-        ("2000", "2004", "2008", "2012", "1996")}
+        (2000, 2004, 2008, 2012, 1996)}
  end
  end
  end
