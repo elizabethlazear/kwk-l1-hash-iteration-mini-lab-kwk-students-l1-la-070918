@@ -35,4 +35,4 @@ place.each |place|
       puts do "The #{"year"} summer olympics took place in #{"place"}."
 end
 
-iterate_through_hash
+puts iterate_through_hash
